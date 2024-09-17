@@ -1,3 +1,3 @@
 # GaRLIO
 
-It will be update.
+Code will be updated after review process.
